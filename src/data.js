@@ -2798,8 +2798,8 @@ module.exports = [
   {
     name: 'Aaron Dunphy',
     description: 'Full Stack Developer, Coffee Lover and Photo Taker',
-    url: 'https://aarondunphy.com/uses',
-    twitter: '@aarondunphy',
+    url: '',
+    twitter: '',
     emoji: '📷',
     country: '🇬🇧',
     computer: 'apple',
